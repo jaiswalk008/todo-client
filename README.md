@@ -1,5 +1,4 @@
-Here's a revised version of the instructions for setting up the client side for the Todo app locally:
-
+## Todo client
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/jaiswalk008/todo-client
